@@ -1,0 +1,50 @@
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Database1.accdb
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.exe.config
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.exe.manifest
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.application
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.exe
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.pdb
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.accounts.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Billing_tracker.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Customer_history.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.dashboard.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Edit_tab.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Employee_view.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Form1.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.graph_cite.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Info_guide.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Login_Screen.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.profit_today.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Properties.Resources.resources
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.csproj.GenerateResource.Cache
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.csproj.CoreCompileInputs.cache
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.exe.manifest
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.application
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.exe
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.pdb
+D:\PROG STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.csprojResolveAssemblyReference.cache
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Database1.accdb
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.exe.config
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.exe.manifest
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.application
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.exe
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\bin\Debug\Cashier_CB.pdb
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.csprojAssemblyReference.cache
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.accounts.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Billing_tracker.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Customer_history.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.dashboard.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Edit_tab.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Employee_view.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Form1.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.graph_cite.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Info_guide.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Login_Screen.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.profit_today.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.Properties.Resources.resources
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.csproj.GenerateResource.cache
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.csproj.CoreCompileInputs.cache
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.exe.manifest
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.application
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.exe
+D:\PROG_STUFF\C#\Cashier_CB\Cashier_CB\obj\Debug\Cashier_CB.pdb
